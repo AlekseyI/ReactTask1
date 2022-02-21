@@ -1,0 +1,13 @@
+.btn {
+    color: teal;
+    font-size: xxx-large;
+    background: transparent;
+    border: 5px solid teal;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btnBig {
+    width: 300px;
+    height: 150px;
+}
